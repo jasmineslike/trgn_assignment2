@@ -28,7 +28,7 @@
     * https://trgn.usc.edu/user/~lilixu
       * with in ~/public_html
         * it will contain our image file and index.html
-        * with in html file, we can insert "'''<img src="myimage.png"></img>'''"
+        * with in html file, we can insert `<img src="myimage.png"></img>`
     * cron 
       * this program can set up a schedule to run the script, which can keep to update my wordcloud image everyday 
       * contab -e
@@ -36,8 +36,8 @@
       * contab -l
         * check current set up schedule
 * Contact
-  * if you need any assistance of this app,
-  you can contact following ways:
-  Lili Xu
-  Phone: 7143252421
-  Email: lilixu@usc.edu
+  > if you need any assistance of this app,
+  > you can contact following ways:
+  > Lili Xu
+  > Phone: 7143252421
+  > Email: lilixu@usc.edu
