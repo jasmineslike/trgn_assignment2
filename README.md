@@ -37,7 +37,7 @@
         * check current set up schedule
 * Contact
   > if you need any assistance of this app,
-  > you can contact following ways:
-  > \nLili Xu
-  > \nPhone: 7143252421
-  > \nEmail: lilixu@usc.edu
+  > you can contact following ways:\
+  > Lili Xu\
+  > Phone: 7143252421\
+  > Email: lilixu@usc.edu
