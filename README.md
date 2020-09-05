@@ -1,14 +1,15 @@
 # Trgn_assignments
+## Word Cloud
 
-*About the app
+* About the app
   * this web app will introduce everyday new data of COVID-19, which show the word cloud image of these reports.
   
-*Installtion & Usage
+* Installtion & Usage
   * we need to create a script called "generate_wordcloud_from_file.sh" 
   * get two erveyday update website, put them into "my_webpages.txt" file
   * with the dpendencies, edit the "generate_wordcloud_from_file.sh" to run the serve
 
-*Dependencies
+* Dependencies
   * First
     * wget -O
       * download the content of html with speical file name
@@ -34,7 +35,7 @@
         * insert "0 7 * * * generate_wordcloud_from_file.sh"
       * contab -l
         * check current set up schedule
-*Contact
+* Contact
   if you need any assistance of this app,
   you can contact following ways:
   Lili Xu
