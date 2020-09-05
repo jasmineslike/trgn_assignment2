@@ -1,5 +1,4 @@
-#trgn510_assignment2
-##Word Cloud
+# Trgn_assignments
 
 *About the app
   * this web app will introduce everyday new data of COVID-19, which show the word cloud image of these reports.
